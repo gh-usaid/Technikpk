@@ -6858,6 +6858,7 @@ textarea:-ms-input-placeholder {
   padding: 40px 45px 40px;
   margin-top: 30px;
   position: relative;
+  height:400px;
 }
 
 .choose-us-item-02 .choose-us-img img {
